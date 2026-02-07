@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("after update the script got broken soon gonna fix it")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zylang104/bankroll/main/bankroll.lua"))()
